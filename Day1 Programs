@@ -49,7 +49,7 @@ int main() {
     if (isdigit(input)) {
         printf("The input is a digit.\n");
     } else {
-        printf("The input is not a digit.\n");
+        printf("The input is a number.\n");
     }
 
     return 0;
